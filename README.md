@@ -2,7 +2,7 @@
 
 
 ### Life Below Water: Drowning in Unsustainability - A Critical Look at Goal 14
-The vast expanse of our oceans, teeming with life and mystery, holds within its depths a stark reality: Goal 14 of the Sustainable Development Goals (SDGs) – "Life Below Water" – is currently unsustainable. Established in 2015, this goal aimed to "conserve and sustainably use the oceans, seas and marine resources for sustainable development." However, despite concerted efforts, the health of our oceans continues to decline. This essay will delve into the challenges threatening marine life and explore why Goal 14, in its current form, may be falling short.
+The vast expanse of our oceans, teeming with life and mystery, holds within its depths a stark reality: Goal 14 of the Sustainable Development Goals (SDGs) – "Life Below Water" – is currently unsustainable. Established in 2015, this goal aimed to "conserve and sustainably use the oceans, seas and marine resources for sustainable development." However, despite concerted efforts, the health of our oceans continues to decline. This project will delve into the challenges threatening marine life and explore why Goal 14, in its current form, may be falling short.
 
 ![alt text](image.png)
 ### A Symphony of Threats:
