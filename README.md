@@ -32,6 +32,8 @@ The ocean is not merely a resource to exploit; it is the very breath of our plan
 
 ### Project Setup:
 
+Ensure you have the LTS Version of node package manager (npm) installed into your system. Checkout this article https://docs.npmjs.com/downloading-and-installing-node-js-and-npm if not installed yet.
+
 > npm i
 
 > ng serve
